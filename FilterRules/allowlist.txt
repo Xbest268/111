@@ -13,6 +13,8 @@
 @@||*m*.360buyimg.com^
 
 #番茄小说
+@@||lf-normal-gr-sourcecdn.bytegecko.com^
+@@||gecko5-hj.zijieapi.com^
 @@||p3-reading-sign.fqnovelpic.com^
 @@||api5-normal-sinfonlinec.fqnovel.com^
 @@||api5-normal-lf.fqnovel.com^
