@@ -16,6 +16,9 @@
 @@||m.jdjygold.com^
 @@||aks.jdpay.com^
 @@||*m*.360buyimg.com^
+@@||wq.360buyimg.com^
+@@||storage*360buyimg.com^
+
 
 #番茄小说
 @@||lf-normal-gr-sourcecdn.bytegecko.com^
