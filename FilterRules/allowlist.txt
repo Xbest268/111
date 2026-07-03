@@ -3,6 +3,11 @@
 @@||smartplg.com^
 @@||ykf.ichongqing.info^
 
+＃银联
+@@||captcha.95516.com^
+@@||device.95516.com^
+@@||open.95516.com^
+
 #识典古籍
 @@||www.shidianguji.com^
 
