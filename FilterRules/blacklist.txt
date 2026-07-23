@@ -15,6 +15,7 @@
 ||ugdtimg.com^
 ||qzs.gdtimg.com^
 ||quic.xsj.qq.com^
+||wximg.wxs.qq.com^$important
 
 ! =========================
 ! 友盟
