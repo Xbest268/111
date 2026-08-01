@@ -62,7 +62,9 @@
 @@||camscanner.com^
 
 #百度
+@@||baidu.com^
 @@||m.baidu.com^
+@@||tts.baidu.com^
 @@||imgsrc.baidu.com^
 @@||tb.himg.baidu.com^
 @@||wappass.baidu.com^
