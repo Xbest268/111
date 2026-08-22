@@ -25,9 +25,7 @@
 @@||api*normal*fqnovel.com^
 @@||v*-fq-tts.fqnovelvod.com^
 
-#酷安
-@@||coolapk.com^
-@@auni.telecome.cn^
+
 
 #微信QQ放行
 @@/.*weixin.*/
