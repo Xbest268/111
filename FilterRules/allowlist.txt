@@ -1,3 +1,11 @@
+@@||api.vc.bilibili.com^$important
+@@||imeffkdword.openspeech.cn^$important
+@@||broadcast.chat.bilibili.com^$important
+@@||netdisk-pan.n.shifen.com^$important
+@@||pop.pcsnetwork.netdisk.n.shifen.com^$important
+@@||access1.tpns.tencent.com^$important
+@@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
+@@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
 #政务
 @@||gov.cn^
 @@||smartplg.com^
