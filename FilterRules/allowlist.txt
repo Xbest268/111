@@ -1,4 +1,5 @@
 #
+@@||api.individual.githubcopilot.com
 @@||github.githubassets.com^
 @@||api.vc.bilibili.com^$important
 @@||imeffkdword.openspeech.cn^$important
