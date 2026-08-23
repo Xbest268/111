@@ -1,3 +1,4 @@
+#
 @@||api.vc.bilibili.com^$important
 @@||imeffkdword.openspeech.cn^$important
 @@||broadcast.chat.bilibili.com^$important
