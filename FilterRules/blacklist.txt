@@ -16,6 +16,8 @@
 ||gdmf.apple.com^
 ||updates.cdn-apple.com^
 
+||api.ad.xiaomi.com^$important
+
 
 !==================== 【广告域名拦截】====================
 ||8le8le.com^
