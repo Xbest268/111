@@ -16,10 +16,8 @@
 ||gdmf.apple.com^
 ||updates.cdn-apple.com^
 
-||api.ad.xiaomi.com^$important
-
-
-!==================== 【广告域名拦截】====================
+!==================== 【广告域名拦截｜最终版｜优先保障业务功能】====================
+||api.ad.xiaomi.com^
 ||8le8le.com^
 ||ad-cdn.qingting.fm^
 ||ad-scope.com^
@@ -28,7 +26,6 @@
 ||ad-splash.hktvmall.com^
 ||ad.12306.cn^
 ||ad.51wnl.com^
-||ad.api.3g.youku.com^
 ||ad.bwton.com^
 ||ad.cctv.com^
 ||ad.cyapi.cn^
@@ -37,19 +34,13 @@
 ||ad.iot.360.cn^
 ||ad.jia.360.cn^
 ||ad.life.360.cn^
-||ad.partner.gifshow.com^
 ||ad.qingting.fm^
-||ad.qq.com^
 ||ad.richmob.cn^
 ||ad.shenshiads.com^
-||ad.tencentmusic.com^
-||ad.toutiao.com^
 ||ad.v3mh.com^
-||ad.weibo.com^
 ||ad.winrar.com.cn^
 ||ad.ximalaya.com^
 ||ad.xunkids.com^
-||ad.zijieapi.com^
 ||adapi.izuiyou.com^
 ||adapi.yynetwk.com^
 ||adashbc.ut.taobao.com^
@@ -57,15 +48,11 @@
 ||adashxgc.ut.taobao.com^
 ||adc.hpplay.cn^
 ||adcdn.hpplay.cn^
-||adcdn.tencentmusic.com^
 ||adclick.g.doubleclick.net^
-||adclick.tencentmusic.com^
 ||adcolony.com^
 ||addata.jd.com^
 ||adeng.hpplay.cn^
 ||adexp.liftoff.io^
-||adexpo.tencentmusic.com^
-||adfilter.imtt.qq.com^
 ||adguanggao.eee114.com^
 ||adimg.uve.weibo.com^
 ||adks.hpplay.cn^
@@ -74,8 +61,6 @@
 ||ads-api-o.api.leiniao.com^
 ||ads-marketing-vivofs.vivo.com.cn^
 ||ads-sdk-api.ranfenghd.com^
-||ads-video-al.xhscdn.com^
-||ads-video-qc.xhscdn.com^
 ||ads.95516.com^
 ||ads.adfunlink.com^
 ||ads.auctions.yahoo.com^
@@ -88,7 +73,6 @@
 ||ads.pinterest.com^
 ||ads.raidrive.com^
 ||ads.servebom.com^
-||ads.service.kugou.com^
 ||ads.v3mh.com^
 ||ads.youtube.com^
 ||ads.zhinengxiesheng.cn^
@@ -100,14 +84,8 @@
 ||adserver.unityads.unity3d.com^
 ||adservice.google.com^
 ||adservice.sigmob.cn^
-||adserviceretry.kugou.com^
-||adsfile.bssdlbig.kugou.com^
-||adsfile.qq.com^
-||adsfilebssdlbig.ali.kugou.com^
-||adsfileretry.service.kugou.com^
 ||adsfs.heytapimage.com^
 ||adsfs.oppomobile.com^
-||adslvfile.qq.com^
 ||adsmind.gdtimg.com^
 ||adsmind.ugdtimg.com^
 ||adsp.xunlei.com^
@@ -139,7 +117,6 @@
 ||adx-bj.anythinktech.com^
 ||adx-cn.anythinktech.com^
 ||adx-drcn.op.dbankcloud.cn^
-||adx-open-service.youku.com^
 ||adx-os.anythinktech.com^
 ||adx-saas.advlion.com^
 ||adx.ads.heytapmobi.com^
@@ -150,7 +127,6 @@
 ||adxlog-adnet.vivo.com.cn^
 ||adxserver.ad.cmvideo.cn^
 ||afs.googlesyndication.com^
-||ali-ad.a.yximgs.com^
 ||applovin.com^
 ||aqyad.com^
 ||auction.unityads.unity3d.com^
@@ -168,7 +144,6 @@
 ||click.liftoff.io^
 ||cpc-service-square.aiclk.com^
 ||cpro.baidustatic.com^
-||csjplatform.com^
 ||d.applovin.com^
 ||d.applvn.com^
 ||da.anythinktech.com^
@@ -184,7 +159,6 @@
 ||g-adnet.hiaiabc.com^
 ||g.dtv.cn.miaozhen.com^
 ||g.fancyapi.com^
-||gdfp.gifshow.com^
 ||googleads.g.doubleclick.net^
 ||googleadservices-cn.com^
 ||googleadservices.com^
@@ -192,7 +166,6 @@
 ||googlesyndication.com^
 ||hanlanad.com^
 ||hc-ssp.sm.cn^
-||hw-ot-ad.a.yximgs.com^
 ||iad.apple.com^
 ||iad.g.163.com^
 ||iadsdk.apple.com^
@@ -201,10 +174,8 @@
 ||litchiads.com^
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
-||pcm-img.zhls.qq.com^
 ||pgdt.gtimg.cn^
 ||pgdt.ugdtimg.com^
-||promotion-partner.kuaishou.com^
 ||public.gdtimg.com^
 ||q.i.gdt.qq.com^
 ||qzs.gdtimg.com^
@@ -215,7 +186,6 @@
 ||rtb.adxsenmeng.com^
 ||securepubads.g.doubleclick.net^
 ||t.applovin.com^
-||t.l.qq.com^
 ||target.ads.jihuoniao.com^
 ||tpc.googlesyndication-cn.com^
 ||tpc.googlesyndication.com^
@@ -228,14 +198,9 @@
 ||xc.gdt.qq.com^
 ||xcx.dcad01.com^
 ||xiaomi-dtv.m.cn.miaozhen.com^
-||yk-ssp-ad.cp31.ott.cibntv.net^
-||yk-ssp.ad.youku.com^
-||ykad-data.cp31.ott.cibntv.net^
-||ykad-data.youku.com^
-||ykad-gateway.youku.com^
 ||zeus.ad.xiaomi.com^
 
-!==================== 【追踪｜埋点｜统计｜归因SDK拦截】====================
+!==================== 【追踪｜埋点｜统计｜归因SDK｜最终版｜仅拦截上报】====================
 ||aaid.umeng.com^
 ||adjust.cn^
 ||adjust.com^
@@ -243,13 +208,11 @@
 ||alogus.umeng.com^
 ||analytics-api.samsunghealthcn.com^
 ||analytics.adjust.cn^
-||analytics.oceanengine.com^
 ||analytics.pinterest.com^
 ||analytics.pointdrive.linkedin.com^
 ||analytics.query.yahoo.com^
 ||analytics.rayjump.com^
 ||analytics.s3.amazonaws.com^
-||analytics.tiktok.com^
 ||analytics.woozooo.com^
 ||analyticsengine.s3.amazonaws.com^
 ||analyze.lemurbrowser.com^
@@ -263,9 +226,6 @@
 ||resolve.umeng.com^
 ||ulogs.umeng.com^
 ||ulogs.umengcloud.com^
-||abtest-ch.snssdk.com^
-||aegis.qq.com^
-||badjs.weixinbridge.com^
 ||crash2.zhihu.com^
 ||crashlyticsreports-pa.googleapis.com^
 ||dlogs.bwton.com^
@@ -296,19 +256,14 @@
 ||log-stat.kugou.com^
 ||log.tagtic.cn^
 ||log.tbs.qq.com^
-||log.zijieapi.com^
 ||logapi-mn.huxiu.com^
 ||logapi.huxiu.com^
 ||logreport.com^
-||logsdk.gifshow.com^
-||logsdk.ksapisrv.com^
 ||logupload-os.hoyoverse.com^
 ||logupload.mihoyo.com^
 ||log.ad.xiaomi.com^
 ||log.aispeech.com^
-||log.amemv.com^
 ||log.avlyun.com^
-||log.byteoversea.com^
 ||log.fc.yahoo.com^
 ||log.iflytek.com^
 ||log.ireader.com^
