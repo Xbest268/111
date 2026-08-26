@@ -330,17 +330,3 @@
 ||statsig.com^
 ||statsigapi.net^
 
-!==================== 【网页元素隐藏规则，仅网页生效】====================
-! B站网页广告块隐藏
-bilibili.com##.ad-report
-bilibili.com##.banner-ad
-bilibili.com##.card-ad
-bilibili.com##.floor-ad
-bilibili.com##[data-ad-id]
-bilibili.com##.pop-ad
-!通用网页广告占位隐藏
-##[class*="ad-"]
-##[class*="ads-"]
-##[id*="ad-"]
-##[id*="ads-"]
-##div[role="advertisement"]
