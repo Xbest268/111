@@ -88,7 +88,6 @@
 ||adsfs.oppomobile.com^
 ||adsmind.gdtimg.com^
 ||adsmind.ugdtimg.com^
-||adsp.xunlei.com^
 ||adstore-1252524079.file.myqcloud.com^
 ||adstore-index-1252524079.file.myqcloud.com^
 ||adstrategy.biz.weibo.com^
@@ -125,7 +124,6 @@
 ||adx.sogaha.cn^
 ||adx.tuia.cn^
 ||adxlog-adnet.vivo.com.cn^
-||adxserver.ad.cmvideo.cn^
 ||afs.googlesyndication.com^
 ||applovin.com^
 ||aqyad.com^
@@ -286,4 +284,3 @@
 ||allyes.com^
 ||statsig.com^
 ||statsigapi.net^
-
