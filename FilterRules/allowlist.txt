@@ -17,6 +17,13 @@
 @@||id6.me^
 @@||open.e.189.cn^
 @@||data.bilibili.com^$important
+!微信H5视频CDN，防止视频黑屏
+@@||1500020991.vodplayer.wxamedia.com^
+@@||1500022744.vodplayer.wxamedia.com^
+@@||1500026601.vodplayer.wxamedia.com^
+!B站核心业务域名(不拦截，否则APP/网页异常)
+@@||ad.bilibili.com^
+@@||track.bilibili.com^
 
 #
 @@||api.individual.githubcopilot.com
