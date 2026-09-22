@@ -24,6 +24,12 @@
 @@||ad.bilibili.com^
 @@||track.bilibili.com^
 
+@@||webcast-open.douyin.com^$important
+@@||track.lc.quark.cn^$important
+@@||vcs.zijieapi.com^$important
+@@||tnc0-aliec2.zijieapi.com^$important
+@@||tnc0-alisc1.zijieapi.com^$important
+
 #
 @@||api.individual.githubcopilot.com
 @@||github.githubassets.com^
