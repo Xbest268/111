@@ -42,7 +42,7 @@
 @@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
 @@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
 
-#
+!夸克uc
 @@||applog.lc.quark.cn^$important
 @@||partner.uc.cn^$important
 @@||track.uc.cn^$important
