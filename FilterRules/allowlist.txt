@@ -42,6 +42,14 @@
 @@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
 @@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
 
+#
+@@||applog.lc.quark.cn^$important
+@@||partner.uc.cn^$important
+@@||track.uc.cn^$important
+@@||applog.uc.cn^$important
+@@||applog-perf.uc.cn^$important
+@@||adtrack.quark.cn^$important
+
 
 
 
