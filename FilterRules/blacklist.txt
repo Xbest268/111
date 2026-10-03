@@ -1,6 +1,7 @@
 
 !小米系统更新
 ||update.miui.com^
+||connect.rom.miui.com^$important
 
 
 
