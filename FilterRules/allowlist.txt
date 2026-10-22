@@ -50,6 +50,16 @@
 @@||applog-perf.uc.cn^$important
 @@||adtrack.quark.cn^$important
 
+@@||aeventlog.beacon.qq.com^$important
+@@||doubao.com^$important
+@@||v.smtcdns.com^
+@@||mesu.apple.com^$important
+@@||px.ucweb.com^$important
+@@||tools.3g.qq.com^$important
+@@||image.uczzd.cn^$important
+@@||errnewlog.umeng.com^$important
+@@||cnlogs.umeng.com^$important
+
 
 
 
