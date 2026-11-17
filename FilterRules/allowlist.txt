@@ -15,7 +15,7 @@
 @@||enrichgw.10010.com^
 @@||id6.me^
 @@||open.e.189.cn^
-@@||data.bilibili.com^$important
+@@||data.bilibili.com^
 !微信H5视频CDN，防止视频黑屏
 @@||1500020991.vodplayer.wxamedia.com^
 @@||1500022744.vodplayer.wxamedia.com^
@@ -31,34 +31,32 @@
 @@||tnc0-alisc1.zijieapi.com^$important
 
 #
-@@||api.individual.githubcopilot.com
-@@||github.githubassets.com^
-@@||api.vc.bilibili.com^$important
-@@||imeffkdword.openspeech.cn^$important
-@@||broadcast.chat.bilibili.com^$important
-@@||netdisk-pan.n.shifen.com^$important
-@@||pop.pcsnetwork.netdisk.n.shifen.com^$important
-@@||access1.tpns.tencent.com^$important
-@@||apd-pcdnwxlogin.teg.tencent-cloud.net^$important
-@@||apd-pcdnwxstat.teg.tencent-cloud.net^$important
+@@||api.vc.bilibili.com^
+@@||imeffkdword.openspeech.cn^
+@@||broadcast.chat.bilibili.com^
+@@||netdisk-pan.n.shifen.com^
+@@||pop.pcsnetwork.netdisk.n.shifen.com^
+@@||access1.tpns.tencent.com^
+@@||apd-pcdnwxlogin.teg.tencent-cloud.net^
+@@||apd-pcdnwxstat.teg.tencent-cloud.net^
 
 !夸克uc
-@@||applog.lc.quark.cn^$important
-@@||partner.uc.cn^$important
-@@||track.uc.cn^$important
-@@||applog.uc.cn^$important
-@@||applog-perf.uc.cn^$important
-@@||adtrack.quark.cn^$important
+@@||applog.lc.quark.cn^
+@@||partner.uc.cn^
+@@||track.uc.cn^
+@@||applog.uc.cn^
+@@||applog-perf.uc.cn^
+@@||adtrack.quark.cn^
 
-@@||aeventlog.beacon.qq.com^$important
-@@||doubao.com^$important
+@@||aeventlog.beacon.qq.com^
+@@||doubao.com^
 @@||v.smtcdns.com^
-@@||mesu.apple.com^$important
-@@||px.ucweb.com^$important
-@@||tools.3g.qq.com^$important
-@@||image.uczzd.cn^$important
-@@||errnewlog.umeng.com^$important
-@@||cnlogs.umeng.com^$important
+@@||mesu.apple.com^
+@@||px.ucweb.com^
+@@||tools.3g.qq.com^
+@@||image.uczzd.cn^
+@@||errnewlog.umeng.com^
+@@||cnlogs.umeng.com^
 
 
 
